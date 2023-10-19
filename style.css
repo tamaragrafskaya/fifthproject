@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 24px;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+p {
+    background-color: beige;
+    margin-bottom: 16px;
+}
+
+nav {
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+
+.nav_link {
+    color: brown;
+    text-decoration: none;
+    background-color: blanchedalmond;
+}
+
+.nav_link_active {
+    text-decoration: underline;
+}
+
+input {
+    background-color: antiquewhite;
+}
+
+.registration {
+    text-align: center;
+    background-color: beige;
+    margin-left: 25%;
+    margin-right: 25%;
+    border: 4px double black;
+
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+footer {
+    background-color: blanchedalmond;
+    margin: 24px;
+    text-align: center;
+}
+
+.footer__text {
+    background-color: blanchedalmond;
+    text-align: center;
+}
